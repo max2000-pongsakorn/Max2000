@@ -1,2 +1,2 @@
-fastmcp==2.6.0
-uvicorn==0.30.0
+fastmcp==3.0.2
+pydantic==2.7.4
