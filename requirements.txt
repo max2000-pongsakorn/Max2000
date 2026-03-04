@@ -1,4 +1,4 @@
 fastmcp==3.0.2
-supabase                  2.21.1
-supabase-auth             2.21.1
-supabase-functions        2.21.1
+supabase==2.21.1
+supabase-auth==2.21.1
+supabase-functions==2.21.1
