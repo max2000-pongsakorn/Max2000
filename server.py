@@ -27,8 +27,9 @@ def echo(message: str):
 @mcp.tool()
 def hello(name: str):
     return f"Hello {name}"
-    
-app = mcp.asgi()
+
+# ✅ ใช้แบบนี้ใน v3
+app = mcp.app
 
 if __name__ == "__main__":
     mcp.run()
