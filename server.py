@@ -4,4 +4,4 @@ mcp = FastMCP("MyServer")
 
 @mcp.tool
 def hello(name: str) -> str:
-    return f"Hello, {name}!"
+    return f"Hello, {name}! ตอนนี้ใช้ mcp อยู่นะ"
